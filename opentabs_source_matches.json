@@ -37396,9 +37396,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2516_churn_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "churn",
     "canonical_name": "Telco Customer Churn",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/40701",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2516_churn_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "state",
@@ -37423,15 +37423,16 @@
       "number_customer_service_calls",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 21-feature telecom churn schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2517_churn_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "churn",
     "canonical_name": "Telco Customer Churn",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/40701",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2517_churn_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "state",
@@ -37456,15 +37457,16 @@
       "number_customer_service_calls",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 21-feature telecom churn schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2518_churn_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "churn",
     "canonical_name": "Telco Customer Churn",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/40701",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2518_churn_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "state",
@@ -37489,7 +37491,8 @@
       "number_customer_service_calls",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 21-feature telecom churn schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2529_PhishingWebsites_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
@@ -37539,9 +37542,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2530_PhishingWebsites_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "PhishingWebsites",
     "canonical_name": "phishing_websites",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/phishing+websites",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2530_PhishingWebsites_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "having_IP_Address",
@@ -37576,15 +37579,16 @@
       "Statistical_report",
       "Result"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI PhishingWebsites mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2531_PhishingWebsites_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "PhishingWebsites",
     "canonical_name": "phishing_websites",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/phishing+websites",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2531_PhishingWebsites_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "having_IP_Address",
@@ -37619,15 +37623,16 @@
       "Statistical_report",
       "Result"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI PhishingWebsites mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2532_PhishingWebsites_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "PhishingWebsites",
     "canonical_name": "phishing_websites",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/phishing+websites",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2532_PhishingWebsites_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "having_IP_Address",
@@ -37662,15 +37667,16 @@
       "Statistical_report",
       "Result"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI PhishingWebsites mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2533_PhishingWebsites_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "PhishingWebsites",
     "canonical_name": "phishing_websites",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/phishing+websites",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2533_PhishingWebsites_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "having_IP_Address",
@@ -37705,7 +37711,8 @@
       "Statistical_report",
       "Result"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI PhishingWebsites mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2564_Amazon_employee_access_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
@@ -37734,9 +37741,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2565_Amazon_employee_access_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "Amazon_employee_access",
     "canonical_name": "Amazon Employee Access Challenge",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/4135",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2565_Amazon_employee_access_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "RESOURCE",
@@ -37750,15 +37757,16 @@
       "ROLE_CODE",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence OpenML Amazon Employee Access mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2566_Amazon_employee_access_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "Amazon_employee_access",
     "canonical_name": "Amazon Employee Access Challenge",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/4135",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2566_Amazon_employee_access_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "RESOURCE",
@@ -37772,15 +37780,16 @@
       "ROLE_CODE",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence OpenML Amazon Employee Access mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2567_Amazon_employee_access_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "Amazon_employee_access",
     "canonical_name": "Amazon Employee Access Challenge",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/4135",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2567_Amazon_employee_access_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "RESOURCE",
@@ -37794,15 +37803,16 @@
       "ROLE_CODE",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence OpenML Amazon Employee Access mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2568_Amazon_employee_access_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "Amazon_employee_access",
     "canonical_name": "Amazon Employee Access Challenge",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/4135",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2568_Amazon_employee_access_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "RESOURCE",
@@ -37816,7 +37826,8 @@
       "ROLE_CODE",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence OpenML Amazon Employee Access mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2574_jungle_chess_2pcs_raw_endgame_complete_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
@@ -37842,9 +37853,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2575_jungle_chess_2pcs_raw_endgame_complete_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "jungle_chess_2pcs_raw_endgame_complete",
     "canonical_name": "synthetic_jungle_chess_endgame",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/41027",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2575_jungle_chess_2pcs_raw_endgame_complete_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "white_piece0_strength",
@@ -37855,15 +37866,16 @@
       "black_piece0_rank",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 7-feature jungle chess schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2576_jungle_chess_2pcs_raw_endgame_complete_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "jungle_chess_2pcs_raw_endgame_complete",
     "canonical_name": "synthetic_jungle_chess_endgame",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/41027",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2576_jungle_chess_2pcs_raw_endgame_complete_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "white_piece0_strength",
@@ -37874,15 +37886,16 @@
       "black_piece0_rank",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 7-feature jungle chess schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2577_jungle_chess_2pcs_raw_endgame_complete_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "jungle_chess_2pcs_raw_endgame_complete",
     "canonical_name": "synthetic_jungle_chess_endgame",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/41027",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2577_jungle_chess_2pcs_raw_endgame_complete_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "white_piece0_strength",
@@ -37893,15 +37906,16 @@
       "black_piece0_rank",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 7-feature jungle chess schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2578_jungle_chess_2pcs_raw_endgame_complete_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "jungle_chess_2pcs_raw_endgame_complete",
     "canonical_name": "synthetic_jungle_chess_endgame",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/41027",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2578_jungle_chess_2pcs_raw_endgame_complete_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "white_piece0_strength",
@@ -37912,7 +37926,8 @@
       "black_piece0_rank",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 7-feature jungle chess schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2579_adult_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
@@ -37946,9 +37961,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2580_adult_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "adult",
     "canonical_name": "Adult (Census Income)",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/adult",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2580_adult_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "age",
@@ -37967,15 +37982,16 @@
       "native-country",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI Adult mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2581_adult_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "adult",
     "canonical_name": "Adult (Census Income)",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/adult",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2581_adult_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "age",
@@ -37994,15 +38010,16 @@
       "native-country",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI Adult mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2582_adult_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "adult",
     "canonical_name": "Adult (Census Income)",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/adult",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2582_adult_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "age",
@@ -38021,15 +38038,16 @@
       "native-country",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI Adult mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2583_adult_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "adult",
     "canonical_name": "Adult (Census Income)",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/adult",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2583_adult_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "age",
@@ -38048,7 +38066,8 @@
       "native-country",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI Adult mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2614_Click_prediction_small_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
@@ -38079,9 +38098,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2615_Click_prediction_small_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "Click_prediction_small",
     "canonical_name": "Avazu Click-Through Rate Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1217",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2615_Click_prediction_small_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "impression",
@@ -38097,15 +38116,16 @@
       "user_id",
       "click"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 12-feature Avazu click prediction schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2616_Click_prediction_small_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "Click_prediction_small",
     "canonical_name": "Avazu Click-Through Rate Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1217",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2616_Click_prediction_small_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "impression",
@@ -38121,15 +38141,16 @@
       "user_id",
       "click"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 12-feature Avazu click prediction schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2617_Click_prediction_small_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "Click_prediction_small",
     "canonical_name": "Avazu Click-Through Rate Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1217",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2617_Click_prediction_small_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "impression",
@@ -38145,15 +38166,16 @@
       "user_id",
       "click"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 12-feature Avazu click prediction schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2618_Click_prediction_small_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "Click_prediction_small",
     "canonical_name": "Avazu Click-Through Rate Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1217",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2618_Click_prediction_small_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "impression",
@@ -38169,7 +38191,8 @@
       "user_id",
       "click"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 12-feature Avazu click prediction schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2619_sf-police-incidents_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
@@ -38197,9 +38220,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2620_sf-police-incidents_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "sf-police-incidents",
     "canonical_name": "San Francisco Police Department Incidents",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42732",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2620_sf-police-incidents_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "Hour",
@@ -38212,15 +38235,16 @@
       "Y",
       "ViolentCrime"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 9 local columns align after row identifier."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2621_sf-police-incidents_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "sf-police-incidents",
     "canonical_name": "San Francisco Police Department Incidents",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42732",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2621_sf-police-incidents_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "Hour",
@@ -38233,15 +38257,16 @@
       "Y",
       "ViolentCrime"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 9 local columns align after row identifier."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2622_sf-police-incidents_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "sf-police-incidents",
     "canonical_name": "San Francisco Police Department Incidents",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42732",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2622_sf-police-incidents_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "Hour",
@@ -38254,15 +38279,16 @@
       "Y",
       "ViolentCrime"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 9 local columns align after row identifier."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2623_sf-police-incidents_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "sf-police-incidents",
     "canonical_name": "San Francisco Police Department Incidents",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42732",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2623_sf-police-incidents_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "Hour",
@@ -38275,7 +38301,8 @@
       "Y",
       "ViolentCrime"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 9 local columns align after row identifier."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2629_porto-seguro_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
@@ -38352,9 +38379,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2630_porto-seguro_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "porto-seguro",
     "canonical_name": "Porto Seguro Safe Driver Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42742",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2630_porto-seguro_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "ps_ind_01",
@@ -38416,15 +38443,16 @@
       "ps_calc_20_bin",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 58-feature Porto Seguro schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2631_porto-seguro_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "porto-seguro",
     "canonical_name": "Porto Seguro Safe Driver Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42742",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2631_porto-seguro_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "ps_ind_01",
@@ -38486,15 +38514,16 @@
       "ps_calc_20_bin",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 58-feature Porto Seguro schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2632_porto-seguro_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "porto-seguro",
     "canonical_name": "Porto Seguro Safe Driver Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42742",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2632_porto-seguro_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "ps_ind_01",
@@ -38556,15 +38585,16 @@
       "ps_calc_20_bin",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 58-feature Porto Seguro schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2633_porto-seguro_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "porto-seguro",
     "canonical_name": "Porto Seguro Safe Driver Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42742",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2633_porto-seguro_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "ps_ind_01",
@@ -38626,7 +38656,8 @@
       "ps_calc_20_bin",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 58-feature Porto Seguro schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2642_airfoil_self_noise.csv",
@@ -39717,9 +39748,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2730_adult.csv",
     "input_name": "adult",
     "canonical_name": "Adult (Census Income)",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/adult",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2730_adult.csv",
     "feature_names": [
       "age",
@@ -39738,15 +39769,16 @@
       "native-country",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI Adult mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2731_Diabetes130US.csv",
     "input_name": "Diabetes130US",
     "canonical_name": "Diabetes 130-US hospitals dataset",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2731_Diabetes130US.csv",
     "feature_names": [
       "admission_type_id",
@@ -39798,7 +39830,8 @@
       "diabetesMed",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Canonical UCI Diabetes 130-US hospitals dataset."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2733_hcdr.csv",
@@ -39931,9 +39964,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2738_churn.csv",
     "input_name": "churn",
     "canonical_name": "Telco Customer Churn",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/40701",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2738_churn.csv",
     "feature_names": [
       "state",
@@ -39958,15 +39991,16 @@
       "number_customer_service_calls",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 21-feature telecom churn schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2741_road-safety.csv",
     "input_name": "road-safety",
     "canonical_name": "UK Road Safety Data",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/44038",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2741_road-safety.csv",
     "feature_names": [
       "Vehicle_Reference_df_res",
@@ -40003,7 +40037,8 @@
       "Sex_of_Casualty",
       "class"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 33-feature UK road safety schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2742_autos.csv",
@@ -40134,9 +40169,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2746_click_prediction_small.csv",
     "input_name": "click_prediction_small",
     "canonical_name": "Avazu Click-Through Rate Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/43901",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2746_click_prediction_small.csv",
     "feature_names": [
       "click",
@@ -40149,7 +40184,8 @@
       "keyword_id",
       "description_id"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 9-feature Avazu variant matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2747_dailybike.csv",
@@ -40234,9 +40270,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2749_amazon_employee_access.csv",
     "input_name": "amazon_employee_access",
     "canonical_name": "Amazon Employee Access Challenge",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/4135",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2749_amazon_employee_access.csv",
     "feature_names": [
       "ACTION",
@@ -40250,7 +40286,8 @@
       "ROLE_FAMILY",
       "ROLE_CODE"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence OpenML Amazon Employee Access mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2750_letter-challenge-unlabeled.arff.csv",
@@ -40484,9 +40521,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2753_KDDCup99_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "KDDCup99",
     "canonical_name": "KDD Cup 1999",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/kdd+cup+1999+data",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2753_KDDCup99_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "duration",
@@ -40532,7 +40569,8 @@
       "dst_host_srv_rerror_rate",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI KDDCup99 mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2754_17StudentTimeManagement.csv",
@@ -40590,9 +40628,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2756_Click_prediction_small.csv",
     "input_name": "Click_prediction_small",
     "canonical_name": "Avazu Click-Through Rate Prediction",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1217",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2756_Click_prediction_small.csv",
     "feature_names": [
       "click",
@@ -40608,7 +40646,8 @@
       "description_id",
       "user_id"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; 12-feature Avazu click prediction schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2757_Engine1.csv",
@@ -40811,9 +40850,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2761_KDDCup99_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "KDDCup99",
     "canonical_name": "KDD Cup 1999",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/kdd+cup+1999+data",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2761_KDDCup99_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "duration",
@@ -40859,7 +40898,8 @@
       "dst_host_srv_rerror_rate",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI KDDCup99 mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2762_Midwest_Survey.csv",
@@ -40906,9 +40946,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2763_KDDCup99_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "KDDCup99",
     "canonical_name": "KDD Cup 1999",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/kdd+cup+1999+data",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2763_KDDCup99_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "duration",
@@ -40954,15 +40994,16 @@
       "dst_host_srv_rerror_rate",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI KDDCup99 mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2766_KDDCup99_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "input_name": "KDDCup99",
     "canonical_name": "KDD Cup 1999",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/kdd+cup+1999+data",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/2766_KDDCup99_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True.csv",
     "feature_names": [
       "duration",
@@ -41008,7 +41049,8 @@
       "dst_host_srv_rerror_rate",
       "target"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI KDDCup99 mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/AH_Sickle_Cell_Disease_Provisional_Death_Counts_2019-2021.csv",
@@ -44673,9 +44715,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/abalone.csv",
     "input_name": "abalone",
     "canonical_name": "Abalone",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/ml/datasets/abalone",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/abalone.csv",
     "feature_names": [
       "Sex",
@@ -44688,7 +44730,8 @@
       "Shell weight",
       "Rings"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI Abalone mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/accident_data.csv",
@@ -46658,9 +46701,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/diamonds.csv",
     "input_name": "diamonds",
     "canonical_name": "Diamonds Dataset",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42225",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/diamonds.csv",
     "feature_names": [
       "carat",
@@ -46674,7 +46717,8 @@
       "y",
       "z"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; diamonds column schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/draft_combine_stats.csv",
@@ -48071,9 +48115,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/insurance.csv",
     "input_name": "insurance",
     "canonical_name": "Medical Cost Personal Dataset",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "Kaggle",
+    "url": "https://www.kaggle.com/datasets/mirichoi0218/insurance",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/insurance.csv",
     "feature_names": [
       "age",
@@ -48084,7 +48128,8 @@
       "region",
       "charges"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Medical Cost Personal Dataset; 7-column insurance charges schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_labeled_dataset/international_matches.csv",
@@ -52192,9 +52237,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/2003_Property_Tax_Roll.csv",
     "input_name": "Property_Tax_Roll",
     "canonical_name": "property_tax_roll",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "City of Providence Open Data",
+    "url": "https://data.providenceri.gov/Finance/2019-Property-Tax-Roll/twey-459r",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/2003_Property_Tax_Roll.csv",
     "feature_names": [
       "Plat",
@@ -52221,7 +52266,8 @@
       "Property Location",
       "Owner Location"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Socrata metadata confirms 2019 Property Tax Roll fields."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/2008-2009_VADIR_INCIDENTS.csv",
@@ -54122,9 +54168,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Amador_County.csv",
     "input_name": "Amador_County",
     "canonical_name": "Amador County Dataset",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "California State Treasurer DebtWatch",
+    "url": "https://debtwatch.treasurer.ca.gov/issue-level-detail/issues",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Amador_County.csv",
     "feature_names": [
       "Issuer",
@@ -54170,7 +54216,8 @@
       "Rating Agency Fee",
       "Other Issuance Expenses"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "DebtWatch Issuance dataset fields match the Amador County export."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Animal_Control_-_Area_Animal_Shelters__Agencies__and_Emergency_Hospitals.csv",
@@ -61724,9 +61771,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Iris_Data.csv",
     "input_name": "Iris_Data",
     "canonical_name": "iris",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/dataset/53/iris",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Iris_Data.csv",
     "feature_names": [
       "sepal_length",
@@ -61735,7 +61782,8 @@
       "petal_width",
       "species"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence UCI Iris mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/JTA_Project_Status.csv",
@@ -62189,9 +62237,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Life_expectancy_dataset.csv",
     "input_name": "Life_expectancy_dataset",
     "canonical_name": "life_expectancy_who",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "Kaggle",
+    "url": "https://www.kaggle.com/datasets/amansaxena/lifeexpectancy",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Life_expectancy_dataset.csv",
     "feature_names": [
       "Rank",
@@ -62201,7 +62249,8 @@
       "Female Life",
       "Continent"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Kaggle page matches the 6-column, 223-row life expectancy dataset."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Liquor_Authority_Current_List_of_Active_Licenses.csv",
@@ -66889,9 +66938,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Recreation_Fall_Programs.csv",
     "input_name": "Recreation_Fall_Programs",
     "canonical_name": "recreation_programs",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "ArcGIS Hub",
+    "url": "https://services.arcgis.com/hdlG36cOubTzNDBb/ArcGIS/rest/services/Recreation_Fall_Programs/FeatureServer",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Recreation_Fall_Programs.csv",
     "feature_names": [
       "Session",
@@ -66915,7 +66964,8 @@
       "Fee",
       "Address/Location"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "ArcGIS service metadata confirms Recreation Fall Programs fields."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/Recreation_Summer_Camps.csv",
@@ -69893,9 +69943,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/accounts.csv",
     "input_name": "accounts",
     "canonical_name": "Financial Accounts Dataset",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "Kaggle",
+    "url": "https://www.kaggle.com/datasets/pawegryka/gmr-pl-fake-reviews-dataset",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/accounts.csv",
     "feature_names": [
       "is_deleted",
@@ -69905,7 +69955,8 @@
       "name_score",
       "number_of_reviews"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "GMR-PL account table columns match accounts.csv."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/ach631_EXT_MNTHLY_ENROLL_01_2023_FINAL_2023-04-19.csv",
@@ -70381,9 +70432,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/diamonds.csv",
     "input_name": "diamonds",
     "canonical_name": "Diamonds Dataset",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42225",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/diamonds.csv",
     "feature_names": [
       "carat",
@@ -70397,7 +70448,8 @@
       "y",
       "z"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "OpenML exact-name match; diamonds column schema matches."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/dnc_complaint_numbers_2018-03-26-30.csv",
@@ -71626,9 +71678,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/lithium-ion batteries.csv",
     "input_name": "lithium-ion batteries",
     "canonical_name": "lithium_ion_battery_dataset",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "Kaggle",
+    "url": "https://www.kaggle.com/datasets/divyansh22/crystal-system-properties-for-liion-batteries",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/lithium-ion batteries.csv",
     "feature_names": [
       "Materials Id",
@@ -71643,7 +71695,8 @@
       "Has Bandstructure",
       "Crystal System"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Li-ion crystal-system dataset columns match lithium-ion batteries.csv."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/locations.csv",
@@ -72629,9 +72682,9 @@
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/milknew.csv",
     "input_name": "milknew",
     "canonical_name": "milk_quality",
-    "source": "",
-    "url": "",
-    "confidence": "low",
+    "source": "Kaggle",
+    "url": "https://www.kaggle.com/datasets/cpluzshrijayan/milkquality",
+    "confidence": "high",
     "datapath": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/milknew.csv",
     "feature_names": [
       "pH",
@@ -72643,7 +72696,8 @@
       "Colour",
       "Grade"
     ],
-    "split": "split2"
+    "split": "split2",
+    "notes": "Duplicate of existing high-confidence Kaggle milk quality mapping."
   },
   {
     "original_path": "OpenTabs/OpenTabs-Latest/clean_unlabeled_dataset/modern_RAPTOR_by_player.csv",
