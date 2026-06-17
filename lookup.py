@@ -20,7 +20,6 @@ DEFAULT_FIELDS: Tuple[str, ...] = (
     "input_name",
     "canonical_name",
     "original_path",
-    "datapath",
     "source",
     "notes",
     "url",
@@ -97,15 +96,13 @@ class DatasetLookup:
         return records
 
     def _candidate_exact_keys(self, record: Dict[str, Any]) -> Iterable[str]:
-        for field in ("input_name", "canonical_name", "original_path", "datapath", "url"):
+        for field in ("input_name", "canonical_name", "original_path", "url"):
             value = clean_string(record.get(field))
             if value:
                 yield value
 
-        for field in ("original_path", "datapath"):
-            path_value = clean_string(record.get(field))
-            if not path_value:
-                continue
+        path_value = clean_string(record.get("original_path"))
+        if path_value:
             path = Path(path_value)
             if path.name:
                 yield path.name
