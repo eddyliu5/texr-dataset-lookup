@@ -68,3 +68,17 @@ Main outputs:
 - `search_by_feature(query)`: datasets with similar feature names
 
 Module-level helpers accept `catalog="texr-36k"` or `catalog="opentabs"`.
+
+## OpenTabs source matching
+
+We credit the original OpenTabs authors for the real-world tables used by the
+OpenTabs catalog. The dataset can be downloaded
+[here](https://mega.nz/file/oqUlgbCa#AwNrJD6RDTIroZbJhMUIe5hS2y_DpBGMPLnsutZcAL0),
+and the original OpenTabs/CM2 implementation is available from
+[Chao-Ye/CM2](https://github.com/Chao-Ye/CM2).
+
+As described by the original authors, OpenTabs draws from four source
+families: OpenML, UCI, Kaggle, and Data.gov. We curated the bundled source
+index by normalizing dataset names and filenames, checking dataset pages and
+source URLs where available, and validating ambiguous matches against feature
+schemas.
