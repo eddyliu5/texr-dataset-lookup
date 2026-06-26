@@ -1,4 +1,4 @@
-"""Simple lookup helpers for TEXR-36K and OpenTabs dataset metadata.
+"""Simple lookup helpers for TEXR and OpenTabs dataset metadata.
 
 This module has no third-party dependencies. Keep it next to the bundled JSON
 indexes and import ``DatasetLookup`` from research code.
@@ -15,11 +15,11 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Set, Tuple
 
 
 BASE_DIR = Path(__file__).resolve().parent
-DEFAULT_CATALOG = "texr-36k"
-TEXR_36K_DATA_FILE = BASE_DIR / "texr_36k_source_matches.json"
+DEFAULT_CATALOG = "texr"
+TEXR_DATA_FILE = BASE_DIR / "texr_source_matches.json"
 OPENTABS_DATA_FILE = BASE_DIR / "opentabs_source_matches.json"
 CATALOG_FILES: Dict[str, Path] = {
-    "texr-36k": TEXR_36K_DATA_FILE,
+    "texr": TEXR_DATA_FILE,
     "opentabs": OPENTABS_DATA_FILE,
 }
 # Backward-compatible name for the current default index.
@@ -434,10 +434,10 @@ def has_dataset(
     return get_catalog_lookup(catalog).has_dataset(query, **kwargs)
 
 
-def is_in_texr_36k(query: str, **kwargs: Any) -> bool:
-    """Return True when query appears in the TEXR-36K catalog."""
+def is_in_texr(query: str, **kwargs: Any) -> bool:
+    """Return True when query appears in the TEXR catalog."""
 
-    return get_catalog_lookup("texr-36k").has_dataset(query, **kwargs)
+    return get_catalog_lookup("texr").has_dataset(query, **kwargs)
 
 
 def is_in_opentabs(query: str, **kwargs: Any) -> bool:
